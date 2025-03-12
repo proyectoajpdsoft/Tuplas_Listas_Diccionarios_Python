@@ -1,2 +1,1 @@
-# Tuplas_Listas_Diccionarios_Python
- Tuplas, listas y diccionarios en Python
+Uso de tipos estructurados en el lenguaje de programación Python: tuplas, listas y diccionarios. Con multitud de ejemplos y resultado de salida. Más información en: https://proyectoa.com/tuplas-listas-y-diccionarios-en-python/
